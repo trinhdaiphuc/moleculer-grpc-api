@@ -15,7 +15,7 @@
   "author": "Bruno Nunes @brunonunes",
   "license": "MIT",
   "dependencies": {
-    "@grpc/proto-loader": "^0.5.5",
+    "@grpc/proto-loader": "^0.7.10",
     "grpc": "^1.24.3",
     "lodash.defaultsdeep": "^4.6.1"
   },
