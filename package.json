@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@grpc/proto-loader": "^0.5.5",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.8",
     "lodash.defaultsdeep": "^4.6.1"
   },
   "repository": {
